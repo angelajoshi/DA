@@ -1,6 +1,6 @@
-# Data Science and Machine Learning Projects
+# DA FA 1 AND 2 
 
-This repository contains two Jupyter notebooks, FA1.ipynb and FA 2.ipynb, each featuring a collection of data analysis and machine learning projects.
+This repository contains two Jupyter notebooks, FA1.ipynb and FA 2.ipynb
 
 ## FA1.ipynb
 
